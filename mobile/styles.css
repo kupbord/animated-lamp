@@ -1,0 +1,45 @@
+@charset "UTF-8";/*
+* Default stylesheet for SC99
+* Copyright 2017-2022 Kyodirect
+* Copyright 2022 jko64
+*/
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.container {
+    width: 100%;
+}
+.nav {
+    color: white;
+    background: rgb(69,72,77);
+    background: -moz-linear-gradient(top,  rgba(69,72,77,1) 0%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(top,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%);
+    background: linear-gradient(to bottom,  rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 );
+    padding: 5px;
+}
+.navlink {
+    text-decoration: none;
+    color: #FFF;
+}
+.extranav {
+    height: 30px;
+    background-color: grey;
+    color: white;
+    padding: 4px;
+}
+.imgheader {
+    padding-bottom: 0px;
+}
+.active {
+    border-bottom: 1px solid blue;
+}
+.footer {
+    border: none;
+}
+.main {
+    padding: 2%;
+}

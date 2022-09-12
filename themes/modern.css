@@ -1,0 +1,22 @@
+@charset "UTF-8";/*
+* Removes gradients, changes nav color to light blue, and changes font
+* Author: jko64
+* Copyright 2017-2022 Kyodirect
+* Copyright 2022 jko64
+*/
+
+.nav {
+    color: white;
+    background: rgb(0, 97, 255);
+    background: -moz-linear-gradient(top,  rgb(0, 97, 255) 0%, rgb(0, 97, 255) 0%);
+    background: -webkit-linear-gradient(top,  rgb(0, 97, 255) 0%,rgb(0, 97, 255) 100%);
+    background: linear-gradient(to bottom,  rgb(0, 97, 255) 0%,rgb(0, 97, 255) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
+    padding: 5px;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+.active {
+    border-bottom: 1px solid white;
+}
