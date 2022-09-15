@@ -7,24 +7,12 @@
         </div>
           <div class="con">
             <div class="conb">Partners</div>
-            <small class="nav-link">Goog</small>
+            <small class="nav-link">animaster</small>
           </div>
           <div class="con">
             <div class="conb">Miscellanous</div>
             <p class="nav-link">
-            Change Log -
-            <br>
-            Contact -
-            <br>
-            Graphics -
-            <br>
-            Status -
-            <br>
-            Applications -
-            <br>
-            Art Groups -
-            <br>
-            Shells -
+            What the fuck are you looking for there's nothing here
             </p>
           </div>
         </div>

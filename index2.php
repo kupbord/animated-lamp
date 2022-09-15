@@ -30,7 +30,7 @@
             </div>
             <p class="blogtext">I am so crazy guys (stealing macespy code challenge)<br>I am so rebellious</p>
             <div class="subfooter">
-             <small>by jark, on <?php echo date("M"); echo(" "); echo date("Y"); ?>, in Kupbord News</small>
+             <small>by jark, on <?php echo date("M d, Y"); ?>, in Kupbord News</small>
             </div>
          </div>
          
