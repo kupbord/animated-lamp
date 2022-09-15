@@ -1,3 +1,4 @@
+<div class="headercontainer">
 <div class="header">
               <div class="nav">
               <small><span style="text-align: right;"><!--Logged in as <b>jko64</b>--> <a href="#" class="navlink">sign in</a> | <a href="#" class="navlink">sign up</a> </span> | <a class="navlink" href=".">home</a> | <a class="navlink" href=".">users</a> | <a class="navlink" href=".">videos</a> | <a class="navlink" href=".">upload</a></small>
@@ -14,3 +15,4 @@
                  <!-- here is supposed to be more links to stuff but not yet -->
               </div>
             </div>
+</div>

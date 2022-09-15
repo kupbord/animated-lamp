@@ -17,7 +17,7 @@
           <!--  <div class="main"> -->
               <p class="middleparagraph">
                 <?php
-                echo "<small class=texx>serving the art community for <span title='since September 2022'>x</span> days</small>";
+                echo "<small class=texx>serving the internet for <span title='since September 2022'>$ndays</span> days</small>";
                 ?>
               </p>
           <!--  </div> -->
