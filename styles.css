@@ -57,7 +57,6 @@ body {
 }
 .sidebarright {
     float: right;
-    margin-top: -198px;
 }
 .footer {
     border: none;
@@ -138,4 +137,73 @@ text-align: center;
 }
 .centerbar {
     margin-top: -20px;
+}
+.ad {
+    margin: auto;
+}
+.modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(1.1);
+}
+
+.modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    padding: 1rem 1.5rem;
+    width: 35rem;
+}
+
+.modal-content > h2 {
+    line-height: 0.3;
+}
+
+.close-button {
+    float: right;
+    width: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    color: #FFF;
+    background-color: #000;
+}
+
+.close-button:hover {
+    background-color: #FFF;
+    color: #000;
+}
+
+.show-modal {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1.0);
+}
+.btn {
+    padding: 3px;
+    text-decoration: none;
+    /* fun fact press ctrl and the slash to get ez comments in vscode */
+    background-color: black;
+    color: white;
+}
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+input {
+    border: 1px solid black;
+}
+::placeholder {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8pt;
 }

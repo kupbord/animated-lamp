@@ -4,7 +4,9 @@
               <small><span style="text-align: right;"><!--Logged in as <b>jko64</b>--> <a href="#" class="navlink">sign in</a> | <a href="#" class="navlink">sign up</a> </span> | <a class="navlink" href=".">home</a> | <a class="navlink" href=".">users</a> | <a class="navlink" href=".">videos</a> | <a class="navlink" href=".">upload</a></small>
               </div>
               <div class="imgheader">
+                <center>
               <img src="headerimg/codenameanilamp.png">
+</center>
               <!-- homepage logo banner dimensions are 650x80 -->
               </div>
           <!--    <div class="extranav">
