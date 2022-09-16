@@ -4,7 +4,7 @@
         <span class="close-button">×</span>
         <h2>Your account has been banned</h2>
         <br>
-        <p>Your anilamp account has been banned for 365d (until 2023-09-16).<br>Reason: Wtf scary<br><br><a class="btn" href="#">Appeal</a> <a class="btn" href="#">Logout</a></p>
+        <p>Your anilamp account has been banned for 365d (until 2023-09-16).<br>Reason: Wtf scary<br>Moderator: k<br><br><a class="btn" href="#">Appeal</a> <a class="btn" href="#">Logout</a></p>
     </div>
 </div>
 <link href="styles.css" rel="stylesheet">
