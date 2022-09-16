@@ -6,7 +6,7 @@
             <a href="#" id="sep" class="nav-link">Videos</a>
           </div>
           <div class="con">
-            <div class="conb">Daily Post</div>
+            <div class="conb">Featured</div>
             <div class="dailyimg">
             <img src="/placeholder.png" height="100px" width="100px">
             <small>A placeholder daily image because the site hasn't launched yet.</small>

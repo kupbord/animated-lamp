@@ -28,11 +28,21 @@
             <div class="subheader">
                 <h4>miniblog test</h4>
             </div>
-            <p class="blogtext">I am so crazy guys (stealing macespy code challenge)<br>I am so rebellious</p>
+            <p class="blogtext">I am so crazy guys (stealing macespy code challenge)<br>I am so rebellious<br>This is crazy guys</p>
             <div class="subfooter">
-             <small>by jark, on <?php echo date("M d, Y"); ?>, in Kupbord News</small>
+             <small>jark · <?php echo date("M d Y"); ?> · Kupbord News</small>
             </div>
          </div>
+         <div class="content">
+            <div class="subheader">
+                <h4>miniblog test</h4>
+            </div>
+            <p class="blogtext">I am so crazy guys (stealing macespy code challenge)<br>I am so rebellious<br>This is crazy guys</p>
+            <div class="subfooter">
+             <small>jark · <?php echo date("M d Y"); ?> · Kupbord News</small>
+            </div>
+         </div>
+         
          
 </div>
          <?php include("sidebarright.php"); ?>
